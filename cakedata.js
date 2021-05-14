@@ -972,15 +972,15 @@ var lyrics = [{
     clear: 1,
     changepicture: -1
 }, {
-    delay: "45.279",
-    text: "",
-    nonewline: 1,
+    delay: "1.184",
+    text: "Go check out and consider buying Portal on Steam!",
+    nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "0.279",
-    text: "",
-    nonewline: 1,
+    text: "https://store.steampowered.com/app/400/Portal/",
+    nonewline: 0,
     clear: 0,
     changepicture: -1
 }];
